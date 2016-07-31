@@ -3,7 +3,7 @@
 ## overall code
 - CodePen Tips and Best Practice https://medium.freecodecamp.com/codepen-tips-and-best-practice-cf926ebd0b11#.lkywxbhqa
 - My (Simple) Workflow To Design And Develop A Portfolio Website https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/
-- 
+
 ## CSS
 - sass to postcss https://oriolo.ru/perehod-s-scss-na-postcss-moj-opyt/
 - архитектура sass проекта http://sass-guidelin.es/#architecture

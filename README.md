@@ -9,3 +9,7 @@
 ## JS 
 
 - https://gist.github.com/alexbaumgertner/0c080e2f36034fe5fdbe js курсы и обучение
+
+## Python 
+
+- Владимир Дронов | Django: практика создания Web-сайтов на Python [+ Code] (2016) [PDF]

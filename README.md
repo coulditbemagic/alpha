@@ -11,10 +11,13 @@
 - More Transparent UI Code with Namespaces http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/
 - ITCSS: SCALABLE AND MAINTAINABLE CSS ARCHITECTURE https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 - автопрефиксер онлайн https://ymatuhin.ru/projects/autoprefixer_instruction/
+- > мысль : разметка по бэм на бумаге
+- БЭМ https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/ 
+- oobemitscss https://www.sitepoint.com/atomic-oobemitscss/ + https://una.im/classy-css/
 
 ## JS 
-
--  js курсы и обучение https://gist.github.com/alexbaumgertner/0c080e2f36034fe5fdbe
+- ошибки javascript http://bonsaiden.github.io/JavaScript-Garden/ru/
+- js курсы и обучение https://gist.github.com/alexbaumgertner/0c080e2f36034fe5fdbe
 
 ## Python 
 

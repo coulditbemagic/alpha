@@ -1,4 +1,4 @@
-## Прячем текст кнопки
+## hide text
 ```
   .hide-text {
     text-indent: 100%;
@@ -6,3 +6,9 @@
     overflow: hidden;
   }
 ```
+
+## safe id 
+[id="widget"] has specificity like a class
+
+## double specificity
+.btn.btn

@@ -1,5 +1,8 @@
 # Links
 
+## Правила оформления MD файлов на GITHUB
+- http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
+
 ## overall code
 - CodePen Tips and Best Practice https://medium.freecodecamp.com/codepen-tips-and-best-practice-cf926ebd0b11#.lkywxbhqa
 - My (Simple) Workflow To Design And Develop A Portfolio Website https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/

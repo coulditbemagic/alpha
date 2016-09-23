@@ -6,6 +6,7 @@
 ## overall code
 - CodePen Tips and Best Practice https://medium.freecodecamp.com/codepen-tips-and-best-practice-cf926ebd0b11#.lkywxbhqa
 - My (Simple) Workflow To Design And Develop A Portfolio Website https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/
+- Образовательные и обучающие ресурсы для веб-разработчиков и веб-дизайнеров https://habrahabr.ru/company/mailru/blog/215487/
 
 ## CSS
 - sass to postcss https://oriolo.ru/perehod-s-scss-na-postcss-moj-opyt/
